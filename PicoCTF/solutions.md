@@ -1,3 +1,11 @@
+## SOLUTIONS FOR VARIOUS PICOCTF CHALLENGES
+
+_Last updated: 29/05/2024_
+
+This needs editing to turn into a bunch of differnet pages, linking to the particlar challenges that it is related to and formatting to put code into the code places. Also if we 'tag' each solution with relavant things we can then implement a search function later. 
+
+
+
 Super SSH
 Can you ssh as ctf-player to titan.picoctf.net at port 49566 to get the flag? You'll also need the password 1db87a14. If asked, accept the fingerprint with yes.
 
